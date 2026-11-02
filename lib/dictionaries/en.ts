@@ -4,7 +4,7 @@ const en = {
   brand: "Textidy",
   tagline: "Every tool runs in your browser.",
   metaDesc:
-    "Six focused text tools for writers, editors and developers: case styles, cleaning, slugs, placeholder text, HTML entities and text surgery. Everything runs in your browser — your text never leaves your device.",
+    "Six text tools: case styles, cleaning, slugs, placeholder text, HTML entities and text surgery. Everything runs in browser — text never leaves.",
 
   nav: {
     tools: "All tools",
