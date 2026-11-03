@@ -19,6 +19,10 @@ const id = {
     heroSub:
       "Enam alat fokus: gaya kapitalisasi, pembersihan, slug, teks pengisi, entitas HTML, dan bedah teks multi-langkah. Semuanya berjalan lokal di browser Anda — cepat, gratis, tanpa daftar, tanpa unggahan.",
     browseAll: "Lihat semua alat",
+    pinned: "Disematkan",
+    pin: "Sematkan di atas",
+    unpin: "Lepas sematan",
+    popular: "Populer saat ini",
     categoriesTitle: "Kategori",
     featuredTitle: "Alat populer",
     trustLocal: "File tetap di perangkat Anda",
@@ -77,6 +81,8 @@ const id = {
     howTo: "Cara pakai",
     faq: "Pertanyaan yang sering diajukan",
     related: "Alat terkait",
+    nextStep: "Langkah berikutnya",
+    copyLink: "Salin tautan",
     privacyNote:
       "Alat ini berjalan sepenuhnya di browser Anda. Data Anda tidak pernah meninggalkan perangkat — tidak diunggah ke server mana pun.",
     inCategory: "Lainnya di {category}",
